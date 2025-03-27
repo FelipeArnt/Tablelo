@@ -1,7 +1,7 @@
-# 📋 Tablélo 
+# 📋 Tablelo 
 
 # 📌 Descrição
- - O Tablélo é um script em python para automatizar o processos de fazer tabelas a partir de arquivos pdf. 
+ - O Tablelo é um script em python para automatizar o processos de fazer tabelas a partir de arquivos pdf. 
 
 # 🛠 Funcionalidades
  - Extrai tabelas de PDFs automaticamente.
