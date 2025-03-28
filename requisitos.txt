@@ -1,0 +1,1 @@
+tkinter, pdfplumber, termcolor, tabulate
