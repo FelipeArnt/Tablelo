@@ -11,7 +11,7 @@
 
 # 💻 Iniciar o projeto via Linux Terminal
 - Instale as dependências necessárias a partir do arquivo "requisitos.txt"
-- pip install requisitos.txt
+- pip install -r requisitos.txt
 - git clone https://github.com/FelipeArnt/Tablelo.git
 - cd Tablelo
 - py Tablelo.py
