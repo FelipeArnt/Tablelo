@@ -10,7 +10,7 @@
  - Exporta para Markdown formatado.
 
 # 💻 Iniciar o projeto via Linux Terminal
-- Instale as dependências necessárias a partir do arquivos "requisitos.txt"
+- Instale as dependências necessárias a partir do arquivo "requisitos.txt"
 - pip install requisitos.txt
 - git clone https://github.com/FelipeArnt/Tablelo.git
 - cd Tablelo
