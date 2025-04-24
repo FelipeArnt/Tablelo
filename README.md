@@ -7,6 +7,7 @@
  - Extrai tabelas de PDFs automaticamente.
  - Remove tabelas via palavra-chave.
  - Limpeza automática de dados.
+ - Seleciona quais páginas do pdf serão analisadas.
  - Remove linhas indesejadas.
  - Exporta para Markdown formatado.
 
