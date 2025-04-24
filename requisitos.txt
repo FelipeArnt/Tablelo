@@ -1,4 +1,4 @@
 tk
 pdfplumber
 tabulate
-termcolor
+rich
