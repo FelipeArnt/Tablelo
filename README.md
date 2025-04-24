@@ -5,6 +5,7 @@
 
 # 🛠 Funcionalidades
  - Extrai tabelas de PDFs automaticamente.
+ - Remove tabelas via palavra-chave.
  - Limpeza automática de dados.
  - Remove linhas indesejadas.
  - Exporta para Markdown formatado.
