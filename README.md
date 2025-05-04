@@ -21,5 +21,4 @@
 # 🛑 Observações
  - Por enquanto o script aceita apenas arquivos em PDF.
  - Utiliza uma função que só identifica tabelas no arquivo.
- - É feito manualmente a alteração no nome do caso de teste.
  
