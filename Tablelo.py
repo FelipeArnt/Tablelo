@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# |----|LABELO/VSW|----|@author:FelipeArnt|----|
+# Tablelo - Script para extração de tabelas em arquivos PDF do laboratório de Verificação de Software do LABELO.
 
 from tkinter import Tk, filedialog
 import pdfplumber
@@ -359,3 +361,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Erro fatal: {str(e)}", file=sys.stderr)
         sys.exit(1)
+
